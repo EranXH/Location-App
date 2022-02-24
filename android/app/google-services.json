@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "30046622653",
+    "project_id": "location-app-f4deb",
+    "storage_bucket": "location-app-f4deb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30046622653:android:4c9fa581872b6f2dbab8d4",
+        "android_client_info": {
+          "package_name": "com.example.location_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30046622653-pufmfcs16gee3eco0sshdeeseltk0f5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu9CCOACYdW5wm9GbB0D8RIN75z989bUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30046622653-pufmfcs16gee3eco0sshdeeseltk0f5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
